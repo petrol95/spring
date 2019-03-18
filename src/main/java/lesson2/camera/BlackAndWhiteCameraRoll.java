@@ -1,4 +1,4 @@
-package lesson1;
+package lesson2.camera;
 
 public class BlackAndWhiteCameraRoll implements CameraRoll {
 

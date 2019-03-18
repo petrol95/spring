@@ -1,4 +1,4 @@
-package lesson1;
+package lesson2.camera;
 
 import org.springframework.stereotype.Component;
 
