@@ -1,3 +1,5 @@
+package lesson1;
+
 public class CameraImpl implements Camera {
     private CameraRoll cameraRoll;
 
@@ -5,7 +7,7 @@ public class CameraImpl implements Camera {
         return cameraRoll;
     }
 
-    public void setCameraRoll (CameraRoll cameraRoll) {
+    public void setCameraRoll(CameraRoll cameraRoll) {
         this.cameraRoll = cameraRoll;
     }
 

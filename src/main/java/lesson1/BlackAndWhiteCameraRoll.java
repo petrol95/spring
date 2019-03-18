@@ -1,3 +1,5 @@
+package lesson1;
+
 public class BlackAndWhiteCameraRoll implements CameraRoll {
 
     public void processing() {

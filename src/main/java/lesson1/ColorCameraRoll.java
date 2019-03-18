@@ -1,3 +1,8 @@
+package lesson1;
+
+import org.springframework.stereotype.Component;
+
+@Component("cameraRoll")
 public class ColorCameraRoll implements CameraRoll {
 
     public void processing() {
